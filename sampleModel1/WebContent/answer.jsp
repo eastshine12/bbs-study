@@ -8,6 +8,7 @@
     
 <%
 
+
 int seq =Integer.parseInt(request.getParameter("seq"));
 
 BbsDao dao = BbsDao.getInstance();
